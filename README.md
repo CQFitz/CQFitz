@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nabil Muqri
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Laravel & Flask
+- 🌱 I’m currently do not know what I'm doing
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me by Message
 
