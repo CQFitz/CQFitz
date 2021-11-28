@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CQFitz
+- 👋 Hi, I’m Nabil Muqri
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Laravel & Flask
 - 💞️ I’m looking to collaborate on ...
